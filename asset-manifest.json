@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.73d3f82d.css",
-    "main.js": "/static/js/main.b64557ec.js",
+    "main.js": "/static/js/main.f32ac99c.js",
     "static/js/703.8fb02b1b.chunk.js": "/static/js/703.8fb02b1b.chunk.js",
     "static/js/598.cfb4cb13.chunk.js": "/static/js/598.cfb4cb13.chunk.js",
     "static/js/787.9e373618.chunk.js": "/static/js/787.9e373618.chunk.js",
     "static/media/Alibaba-PuHuiTi-Regular.ttf": "/static/media/Alibaba-PuHuiTi-Regular.560e3e1f3b429a424119.ttf",
     "static/media/editBackground.png": "/static/media/editBackground.ceeda79a881dc3ef3de2.png",
-    "static/media/introduction.png": "/static/media/introduction.63a4ba5e63ef0cf34b98.png",
     "static/media/AlfaSlabOne-Regular-2.ttf": "/static/media/AlfaSlabOne-Regular-2.7f24c1408879a038e2c3.ttf",
     "static/media/image.jpg": "/static/media/image.208f1ee4e26aed8b71c9.jpg",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.e20d5327f1a05620c084.ttf",
     "static/media/editGenerateAgain.svg": "/static/media/editGenerateAgain.e978a1de93066dc1da2c6133e6570c80.svg",
     "static/media/publishExport.svg": "/static/media/publishExport.99c71ab19017f7abd335ed09561a1e22.svg",
+    "static/media/Supporting.svg": "/static/media/Supporting.826db3e53d2c71c222d3985113510305.svg",
     "static/media/Arrow.svg": "/static/media/Arrow.c6dec51504dc930b633b.svg",
     "static/media/editAddIcon3.svg": "/static/media/editAddIcon3.af50e84443044ca88ad90509173d158c.svg",
     "static/media/previewStoryoutlineIcon.svg": "/static/media/previewStoryoutlineIcon.92a4a4018200976db3fc29cf4e695e15.svg",
@@ -32,13 +32,13 @@
     "static/media/info4header_line.svg": "/static/media/info4header_line.67d4edae3b0f070463bb4107fd04301d.svg",
     "static/media/info4header_triangle.svg": "/static/media/info4header_triangle.edcd3a5f20b5c530cd8f3b60cf9133b6.svg",
     "main.73d3f82d.css.map": "/static/css/main.73d3f82d.css.map",
-    "main.b64557ec.js.map": "/static/js/main.b64557ec.js.map",
+    "main.f32ac99c.js.map": "/static/js/main.f32ac99c.js.map",
     "703.8fb02b1b.chunk.js.map": "/static/js/703.8fb02b1b.chunk.js.map",
     "598.cfb4cb13.chunk.js.map": "/static/js/598.cfb4cb13.chunk.js.map",
     "787.9e373618.chunk.js.map": "/static/js/787.9e373618.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.73d3f82d.css",
-    "static/js/main.b64557ec.js"
+    "static/js/main.f32ac99c.js"
   ]
 }
